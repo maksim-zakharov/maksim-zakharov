@@ -1,7 +1,16 @@
-# Team Lead Frontend
+# Захаров Максим Станиславович
+
+г. Москва, не готов к переезду
+
+Как связаться: <a href="https://t.me/max89701">Телеграм</a>
+
+<br/>
+
+## Team Lead Frontend
+График работы: удаленная работа
 
 <details>
-<summary><h2>Опыт работы</h2></summary>
+<summary><h2>Опыт работы (c 2017 года)</h2></summary>
 <details>
 <summary><h3>Team Lead (React, Nest.js) в Сбер (февраль 2022 — по настоящее время)</h3></summary>
 <h4>Проект: Рекламный кабинет SberAds</h4>

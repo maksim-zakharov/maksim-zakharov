@@ -4,6 +4,13 @@
 
 Как связаться: <a href="https://t.me/max89701">Телеграм</a>
 
+Полезные ссылки:
+- [Статьи на Хабре](https://habr.com/ru/users/maksim-zakharov/posts/)
+- [Статьи на Medium](https://medium.com/@max89701)
+- [Статьи на vc.ru](https://vc.ru/u/557821-maksim-zakharov)
+- [Проекты на Github](https://github.com/maksim-zakharov)
+- [Пакеты на NPM](https://www.npmjs.com/settings/max89701/packages)
+
 <br/>
 
 ## Team Lead Frontend
